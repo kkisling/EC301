@@ -1,0 +1,5 @@
+1. Build a user interface that allows for the user
+to input a patient ID and open that patient.
+2. 1 combobox will then fill with the available courses
+3. 1 combobox will fill with the the available plans within that course.
+4. Once the plan is selected, get a dose profile for each of the fields.

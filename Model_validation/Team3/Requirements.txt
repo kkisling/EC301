@@ -1,0 +1,9 @@
+1. Use Writable Scripting to generate a set of jaw-delimited open 
+fields for comparison purposes.
+2. The user can select a patient they will use for the plan generation
+3. Calculate open fields of user defined field sizes.
+
+**COMMENTS FROM TEAM**
+*hard code patient for now, UI will just open a patient selector from a button
+*FOR NOW: default to US-PH-001
+*FOR NOW: hard code field sizes: 4, 8, 10, 20

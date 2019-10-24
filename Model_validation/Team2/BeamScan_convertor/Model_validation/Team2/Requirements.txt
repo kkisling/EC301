@@ -1,0 +1,4 @@
+1. Generate a user interface that allows for the user to 
+open an ascii file containing beam scan information.
+2. Read through that file (line by line) and convert that file into a 
+generic scan class.

@@ -1,0 +1,6 @@
+C:\Users\cwalker\Desktop\EC301_Scripts_KK\SingleFile\Projects\PatientInfo\bin\debug\PatientInfo.dll
+C:\Users\cwalker\Desktop\EC301_Scripts_KK\SingleFile\Projects\PatientInfo\bin\debug\PatientInfo.pdb
+C:\Users\cwalker\Desktop\EC301_Scripts_KK\SingleFile\Projects\PatientInfo\obj\x64\Debug\PatientInfo.csprojResolveAssemblyReference.cache
+C:\Users\cwalker\Desktop\EC301_Scripts_KK\SingleFile\Projects\PatientInfo\obj\x64\Debug\PatientInfo.csproj.CoreCompileInputs.cache
+C:\Users\cwalker\Desktop\EC301_Scripts_KK\SingleFile\Projects\PatientInfo\obj\x64\Debug\PatientInfo.dll
+C:\Users\cwalker\Desktop\EC301_Scripts_KK\SingleFile\Projects\PatientInfo\obj\x64\Debug\PatientInfo.pdb

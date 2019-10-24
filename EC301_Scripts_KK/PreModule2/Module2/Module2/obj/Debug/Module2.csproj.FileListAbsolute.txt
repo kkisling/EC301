@@ -1,0 +1,10 @@
+C:\Users\cwalker\Desktop\EC301_Scripts_KK\PreModule2\Module2\Module2\bin\Debug\Module2.exe.config
+C:\Users\cwalker\Desktop\EC301_Scripts_KK\PreModule2\Module2\Module2\bin\Debug\Module2.exe
+C:\Users\cwalker\Desktop\EC301_Scripts_KK\PreModule2\Module2\Module2\bin\Debug\Module2.pdb
+C:\Users\cwalker\Desktop\EC301_Scripts_KK\PreModule2\Module2\Module2\obj\Debug\Module2.csprojResolveAssemblyReference.cache
+C:\Users\cwalker\Desktop\EC301_Scripts_KK\PreModule2\Module2\Module2\obj\Debug\Module2.Form1.resources
+C:\Users\cwalker\Desktop\EC301_Scripts_KK\PreModule2\Module2\Module2\obj\Debug\Module2.Properties.Resources.resources
+C:\Users\cwalker\Desktop\EC301_Scripts_KK\PreModule2\Module2\Module2\obj\Debug\Module2.csproj.GenerateResource.Cache
+C:\Users\cwalker\Desktop\EC301_Scripts_KK\PreModule2\Module2\Module2\obj\Debug\Module2.csproj.CoreCompileInputs.cache
+C:\Users\cwalker\Desktop\EC301_Scripts_KK\PreModule2\Module2\Module2\obj\Debug\Module2.exe
+C:\Users\cwalker\Desktop\EC301_Scripts_KK\PreModule2\Module2\Module2\obj\Debug\Module2.pdb
